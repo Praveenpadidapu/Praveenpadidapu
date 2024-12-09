@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenpadidapu" alt="praveenpadidapu" /></a> </p>
 
-- 🌱 I’m currently learning **FRONTEND WEB DEVELOPMENT**
+- 🌱 I’m currently learning *FULL STACK WEB DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://habitual-locrian-bush.glitch.me/](https://habitual-locrian-bush.glitch.me/)
 
